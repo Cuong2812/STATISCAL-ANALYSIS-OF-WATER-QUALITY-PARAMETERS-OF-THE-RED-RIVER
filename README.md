@@ -1,2 +1,2 @@
 # STATISCAL-ANALYSIS-OF-WATER-QUALITY-PARAMETERS-OF-THE-RED-RIVER
-Group Project for USTH Group Project 2023, yes the course name is "Group Project"
+Just another classic 62-page descriptive analysis of a totally not mislabeled dataset from 2013 (my dad is still home back then)  
